@@ -1,16 +1,16 @@
 const epicMix = [
-  "Time to Pretend",
-  "O-o-oh Child",
-  "Wish You Were Here",
-  "Heroes",
-  "I Put a Spell on You",
-  "Call Me",
-  "Paper Planes",
-  "Jolene",
-  "You Don't Own Me",
-  "Fast Car",
-  "Run the World (Girls)",
-  "Superstition"
+  "MONTERO / Call Me By Your Name",
+  "OMG",
+  "Never Gonna Give You Up",
+  "Woman",
+  "golden hour",
+  "Never Been In Love",
+  "STAR WALKIN'",
+  "Unholy",
+  "About Damn Time",
+  "Made You Look",
+  "Mother",
+  "I'm Not Here To Make Friends",
 ];
 
 const mixList = document.querySelector(".mix");
